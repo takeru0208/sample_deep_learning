@@ -1,0 +1,2 @@
+# このリポジトリについて
+pytorchについて筆者が学習するために、pytorch公式ドキュメントのチュートリアル、[Pytorch開発入門](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%EF%BC%81PyTorch%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80-%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B8%E3%81%AE%E5%AE%9F%E8%A3%85-%E6%9D%9C-%E4%B8%96%E6%A9%8B-ebook/dp/B07FTJPL31)を参考にしながら書いたプログラムを入れるものである。
